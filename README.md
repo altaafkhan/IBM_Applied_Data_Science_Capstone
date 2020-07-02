@@ -8,3 +8,14 @@ Submit a Jupyter Notebook with the following:
 2. Import the pandas library as pd.
 3. Import the Numpy library as np.
 4. Print the following the statement: Hello Capstone Project Course!
+
+### Module 2
+This module was all about Foursquare, but it did not have any assignments that requried code to be uploaded to github
+
+### Module 3
+Peer-graded Assignment: Segmenting and Clustering Neighborhoods in Toronto
+
+Three Notebooks:
+1. Scraping Wikipedia 
+2. Merging geographical coordinates for each neighbourhood
+3. Exploring and clustering neighbourhoods in Toronto
