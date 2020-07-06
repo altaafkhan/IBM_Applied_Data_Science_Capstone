@@ -19,8 +19,6 @@ Overview of data sources, what data elements are available and how I will be usi
 ## 2.2 Data Description
 ### 2.2.1 Australian Locality & Postcode Data
 I have included a data dictionary for the locality and postcode data set. However, I will only be using the following for my analysis:
-
-I have included a data dictionary for the locality and postcode data set. However, I will only be using the following for my analysis:
 - Postcode
 - Locality
 - State
