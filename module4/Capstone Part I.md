@@ -10,8 +10,8 @@ My target audience is professionals who work in the city and don’t mind paying
 
 This is a brief overview of data sources and how I will be using it for the Capstone Project. A full detailed step by step methodology report will be prepared during the second part of this project. 
 
-- Australian postcode and suburb (locality) data, mainly for Sydney. Source: Matthew Proctor. Turns out this data is not freely available on Australia Post website or on Wikipedia. Luckily, I came across this website that publishes a full downloadable list, which was last updated on 16th May 2020. 
--	Foursquare data for restaurants and bars reviews
+1. Australian postcode and suburb (locality) data, mainly for Sydney. Source: [Matthew Proctor](https://www.matthewproctor.com/australian_postcodes). Turns out this data is not freely available on Australia Post website or on Wikipedia. Luckily, I came across this website that publishes a full downloadable list, which was last updated on 16th May 2020. 
+2. [Foursquare](https://foursquare.com/city-guidedata) for restaurants and bars reviews
 
 Steps:
 - Extract data from both sources
